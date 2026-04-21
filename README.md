@@ -1,5 +1,5 @@
 <b>Hi there 👋 </b> </br>
-I'm Timileyin Akinlaja, a Front-end Developer, cms website Expert, and Web Designer with a passion for creating visually stunning and high-performing websites.
+I'm Timileyin Akinlaja, a software Developer, cms website Expert, and Web Designer with a passion for creating visually stunning and high-performing websites/webapps and mobile applications.
 
 🚀 About Me
 💻 Skilled in HTML, CSS, JavaScript, React, php, mysql etc... </br>
